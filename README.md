@@ -4,13 +4,9 @@ I'm Prathik from India, and I am currently pursuing my masters in Big Data Analy
 I am an aspiring data Anal
 
 
-### Hi there 👋, 
-
-
-
 ### Hi there 👋, my name is Prathik Lathish Babu
 #### I am GitHub Readme Generator's creator sdfds
-![I am GitHub Readme Generator's creator sdfds](https://twitter.com/prathik_in/header_photo)
+![I am GitHub Readme Generator's creator sdfds](https://www.canva.com/design/DAFU7o72Jvw/cgZOG-lSzP9CWDN31x4cVg/edit?utm_content=DAFU7o72Jvw&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
 
 I made this project just for fun, it allows you to create nice and simple GitHub Readme files that you can copy/paste and use in your profile.
 
