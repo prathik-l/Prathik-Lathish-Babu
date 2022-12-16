@@ -6,7 +6,9 @@ I am an aspiring data Anal
 
 ### Hi there 👋, 
 
-my name is Prathik Lathish Babu
+
+
+### Hi there 👋, my name is Prathik Lathish Babu
 #### I am GitHub Readme Generator's creator sdfds
 ![I am GitHub Readme Generator's creator sdfds](https://twitter.com/prathik_in/header_photo)
 
