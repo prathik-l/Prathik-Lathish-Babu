@@ -6,7 +6,7 @@ I am an aspiring data Anal
 
 ### Hi there 👋, my name is Prathik Lathish Babu
 #### I am GitHub Readme Generator's creator sdfds
-![I am GitHub Readme Generator's creator sdfds](https://www.canva.com/design/DAFU7o72Jvw/cgZOG-lSzP9CWDN31x4cVg/edit?utm_content=DAFU7o72Jvw&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
+![I am GitHub Readme Generator's creator sdfds](https://pbs.twimg.com/profile_banners/1599007168807800832/1671201960/600x200)
 
 I made this project just for fun, it allows you to create nice and simple GitHub Readme files that you can copy/paste and use in your profile.
 
@@ -16,4 +16,5 @@ Skills: VUE JS / REACT / JS / HTML / C / C++ / R / Python3 / Power BI / Tableau/
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/https://github.com/prathik-l)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/prathik-l//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/https://www.instagram.com/prathik_l/?igshid=YmMyMTA2M2Y%3D/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/https://twitter.com/prathik_in)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://github.com/prathik-l/Prathik-Lathish-Babu/edit/main/README.md)  
+
 
