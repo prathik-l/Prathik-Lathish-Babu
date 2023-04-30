@@ -1,7 +1,7 @@
-### hi this is prathik Lathish Babu
+### hello everyone this is prathik Lathish Babu
 
-I'm Prathik from India, and I am currently pursuing my masters in Big Data Analytics. I really enjoy learning programming languages and Visualizing data using Python , Power BI and Tableau. You can check out my twitter at https://twitter.com/prathik_in 
-I am an aspiring data Anal
+I'm Prathik , and I am currently pursuing my masters in Big Data Analytics. I really enjoy learning programming languages and Visualizing data using Python , Power BI and Tableau. You can check out my twitter at https://twitter.com/prathik_in 
+I am an aspiring data Analyst
 
 
 ### Hi there 👋, my name is Prathik Lathish Babu
