@@ -1,7 +1,7 @@
 ## hello everyone 👋 I'm prathik 
 
 I am a full time student at ATU Donegal. I am a passionate programmer and a data analyst enthusiast. You can check out my twitter at https://twitter.com/prathik_in 
-I am an aspiring data Analyst
+I am an aspiring data Analyst/Software Developer
 
 
 ![I am GitHub Readme Generator's creator sdfds](https://pbs.twimg.com/profile_banners/1603766021491499008/1671202702/600x200)
