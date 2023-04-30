@@ -1,6 +1,6 @@
-### hello everyone this is prathik Lathish Babu
+## hello everyone I'm prathik 
 
-I'm Prathik , and I am currently pursuing my masters in Big Data Analytics. I really enjoy learning programming languages and Visualizing data using Python , Power BI and Tableau. You can check out my twitter at https://twitter.com/prathik_in 
+I am a full time student at ATU Donegal. I am a passionate programmer and a data analyst enthusiast. You can check out my twitter at https://twitter.com/prathik_in 
 I am an aspiring data Analyst
 
 
